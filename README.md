@@ -13,5 +13,5 @@ Spam_Message_BERT_tokenize.ipynb
 
 ### Results
 
-![result_example](results/Img_1.png)
+![result_example](result/model_score.png)
 <p align="center"><i>Figure 1: Model scores </i></p> 
