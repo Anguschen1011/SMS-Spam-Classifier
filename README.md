@@ -4,7 +4,8 @@
 
 
 ## SMS Spam Collection Dataset : [[Kaggle]](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
-- Collection of SMS messages tagged as spam or legitimate.  
+- Collection of SMS messages tagged as spam or legitimate.
+The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam. 
 
 ## Run
 ```
